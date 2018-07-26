@@ -1,6 +1,6 @@
 # Data-Visualisation-Function - dataviz
 A function which takes the dataset as an argument and generates publication quality univariate (for each variable) and bivariate plots (for each variable pair : Discrete-Discrete,Continuous-Continuous,Discrete-Continuos,Time-Continuous) using ggplot2. Provides option to generate plots for user selected variables as well.
-Dependencies : dplyr,ggplot2,reshape2
+Dependencies : ggplot2,reshape2
 
 Types of Univariate Plots : 
 
